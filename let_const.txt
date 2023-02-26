@@ -1,0 +1,9 @@
+/* Write an ES2015 Version */
+const PI = 3.14
+
+- What is the difference between ***var*** and ***let***?
+Var can be redeclared and let can not. Var is also 'hoisted', meaning it is brought to the top of the functional scope and can be accessed before it is defined. 
+- What is the difference between ***var*** and ***const***?
+Const cannot be redeclared or reassigned. 
+- What is hoisting?
+Hoisting happens when variables are brought to the top of the functional scope, which allows variables to get accessed before being declared.  
